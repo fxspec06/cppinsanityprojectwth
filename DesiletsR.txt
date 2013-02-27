@@ -1,0 +1,76 @@
+                            Quinsigamond Community College [2013]               PAGE: ZZZ1
+                CIS225-70 Instructor Course Schedule Listing [Bryan Leasot]
+
+Instructor    Semester      Course    DOW            Time       Room/Building   
+
+
+Desilet, R    Fall 2009    CIS 141-01 -M-W-F-   09:00a-09:50a  375 Administration Building
+                           CIS 141-T1 -------   00:00a-00:00a   Online              
+                           CIS 141-B1 -------   00:00a-00:00a   Online              
+                           CIS 141-40 ---W---   04:00p-06:50p  230 Administration Building
+
+              In semester Fall 2009 there are 4 total sections.
+
+              Spring 2010  CIS 244-01 -M-W-F-   01:00p-01:50p  378 Administration Building
+                           CIS 244-B1 -------   00:00a-00:00a   Online              
+                           CIS 244-01 -M-W-F-   12:00p-12:50p  366 Administration Building
+                           CIS 244-01 --T-R--   09:30a-10:45a  375 Administration Building
+                           CIS 244-01 ---W-F-   02:00p-03:15p  366 Administration Building
+
+              In semester Spring 2010 there are 5 total sections.
+
+              Fall 2010    CIS 229-01 ---W-F-   02:00p-03:15p  377 Administration Building
+                           CIS 229-B1 -------   00:00a-00:00a   Online              
+                           CIS 229-01 --T-R--   09:30a-10:45a  123 Surprenant Hall  
+
+              In semester Fall 2010 there are 3 total sections.
+
+              Spring 2011  CIS 228-01 ---W-F-   02:00p-03:15p  366 Administration Building
+                           CIS 228-01 -M-W-F-   01:00p-01:50p  378 Administration Building
+                           CIS 228-01 -M-W-F-   12:00p-12:50p  366 Administration Building
+                           CIS 228-B1 -------   00:00a-00:00a   Online              
+                           CIS 228-T1 -------   00:00a-00:00a   Online              
+                           CIS 228-40 --T----   04:00p-06:50p  375 Administration Building
+                           CIS 228-01 --T-R--   09:30a-10:45a  375 Administration Building
+                           CIS 228-B1 -------   00:00a-00:00a   Online              
+
+              In semester Spring 2011 there are 8 total sections.
+
+              Summer I 2011CIS 247-T1 -------   00:00a-00:00a   Online              
+
+              In semester Summer I 2011 there is 1 total section.
+
+              Fall 2011    CIS 237-T2 -------   00:00a-00:00a   Online              
+                           CIS 237-B1 -------   00:00a-00:00a   Online              
+                           CIS 237-01 --T-R--   09:30a-10:45a  123 Surprenant Hall  
+                           CIS 237-40 ---W---   04:00p-06:50p  377 Administration Building
+
+              In semester Fall 2011 there are 4 total sections.
+
+              Spring 2012  CIS 241-B1 -------   00:00a-00:00a   Online              
+                           CIS 241-01 -M-W-F-   12:00p-12:50p  366 Administration Building
+                           CIS 241-T1 -------   00:00a-00:00a   Online              
+                           CIS 241-40 --T----   04:00p-06:50p  375 Administration Building
+                           CIS 241-01 -M-W-F-   11:00a-11:50a  366 Administration Building
+                           CIS 241-01 ---W-F-   02:00p-03:15p  123 Surprenant Hall  
+                           CIS 241-T1 -------   00:00a-00:00a   Online              
+                           CIS 241-T1 -------   00:00a-00:00a   Online              
+
+              In semester Spring 2012 there are 8 total sections.
+
+              Summer I 2012CIS 141-B1 -------   00:00a-00:00a   Online              
+
+              In semester Summer I 2012 there is 1 total section.
+
+              Fall 2012    CIS 105-02 -M-W-F-   12:00p-12:50p  207 Surprenant Hall  
+                           CIS 105-01 --T-R--   12:30p-01:45p  377 Administration Building
+                           CIS 105-01 -M-W-F-   08:00a-08:50a  375 Administration Building
+                           CIS 105-70 -----F-   06:00p-08:50p  207 Surprenant Hall  
+                           CIS 105-01 -----F-   01:00p-03:50p  366 Administration Building
+                           CIS 105-01 ---W---   01:00p-02:15p  366 Administration Building
+                           CIS 105-01 --T-R--   09:30a-10:45a  123 Surprenant Hall  
+                           CIS 105-B1 -------   00:00a-00:00a   Online              
+
+              In semester Fall 2012 there are 8 total sections.
+
+Instructor Desilet, R has 42 total sections.

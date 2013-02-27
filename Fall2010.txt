@@ -1,0 +1,120 @@
+                            Quinsigamond Community College [2013]               PAGE: ZZZ1
+                CIS225-70 Instructor Course Schedule Listing [Bryan Leasot]
+
+Instructor    Semester      Course    DOW            Time       Room/Building   
+
+
+Bigonah, R    Fall 2010    CIS 134-70 ----R--   07:00p-09:50p  377 Administration Building
+
+              In semester Fall 2010 there is 1 total section.
+
+Instructor Bigonah, R has 2 total sections.
+
+
+Champagn,A    Fall 2010    CIS 141-70 --T----   07:00p-09:50p  378 Administration Building
+
+              In semester Fall 2010 there is 1 total section.
+
+Instructor Champagn,A has 2 total sections.
+
+
+Chickna, M    Fall 2010    CIS 225-70 -----F-   06:00p-08:50p  366 Administration Building
+                           CIS 225-70 -M-----   07:00p-09:50p  123 Surprenant Hall  
+
+              In semester Fall 2010 there are 2 total sections.
+
+Instructor Chickna, M has 3 total sections.
+
+
+Desilet, R    Fall 2010    CIS 229-01 ---W-F-   02:00p-03:15p  377 Administration Building
+                           CIS 229-B1 -------   00:00a-00:00a   Online              
+                           CIS 229-01 --T-R--   09:30a-10:45a  123 Surprenant Hall  
+
+              In semester Fall 2010 there are 3 total sections.
+
+Instructor Desilet, R has 4 total sections.
+
+
+Dowen, D      Fall 2010    CIS 224-B1 -------   00:00a-00:00a   Online              
+
+              In semester Fall 2010 there is 1 total section.
+
+Instructor Dowen, D has 2 total sections.
+
+
+Dwyer, K      Fall 2010    CIS 105-B2 -------   00:00a-00:00a   Online              
+                           CIS 105-B1 -------   00:00a-00:00a   Online              
+
+              In semester Fall 2010 there are 2 total sections.
+
+Instructor Dwyer, K has 3 total sections.
+
+
+Gupta, P      Fall 2010    CIS 234-70 -M-----   07:00p-09:50p  377 Administration Building
+
+              In semester Fall 2010 there is 1 total section.
+
+Instructor Gupta, P has 2 total sections.
+
+
+Isern, G      Fall 2010    CIS 105-70 ---W---   07:00p-09:50p  375 Administration Building
+
+
+Instructor Isern, G has 1 total section.
+
+              In semester Spring 2010 there is 1 total section.
+
+              Fall 2010    CIS 299-P1 -------   00:00a-00:00a   Online              
+                           CIS 299-40 --T----   04:00p-06:50p  123 Surprenant Hall  
+                           CIS 299-T1 -------   00:00a-00:00a   Online              
+
+              In semester Fall 2010 there are 3 total sections.
+
+Instructor Izuchi, N has 5 total sections.
+
+
+Knox, R       Fall 2010    CIS 105-02 -M-W-F-   12:00p-12:50p  207 Surprenant Hall  
+
+              In semester Fall 2010 there is 1 total section.
+
+Instructor Knox, R has 2 total sections.
+
+
+Le, G         Fall 2010    CIS 105-71 --T----   07:00p-09:50p  366 Administration Building
+
+              In semester Fall 2010 there is 1 total section.
+
+Instructor Le, G has 2 total sections.
+
+
+Leonard, L    Fall 2010    CIS 112-01 --T-R--   12:30p-01:45p  377 Administration Building
+
+              In semester Fall 2010 there is 1 total section.
+
+Instructor Leonard, L has 2 total sections.
+
+
+Perry, J      Fall 2010    CIS 112-B1 -------   00:00a-00:00a   Online              
+                           CIS 112-B2 -------   00:00a-00:00a   Online              
+
+              In semester Fall 2010 there are 2 total sections.
+
+Instructor Perry, J has 3 total sections.
+
+
+Trivedi, C    Fall 2010    CIS 105-01 --T-R--   11:00a-12:15p  378 Administration Building
+                           CIS 105-01 --T-R--   08:00a-09:15a  123 Surprenant Hall  
+                           CIS 105-01 --T-R--   12:30p-01:45p  375 Administration Building
+                           CIS 105-B1 -------   00:00a-00:00a   Online              
+
+              In semester Fall 2010 there are 4 total sections.
+
+Instructor Trivedi, C has 5 total sections.
+
+
+Vicente, R    Fall 2010    CIS 121-B1 -------   00:00a-00:00a   Online              
+                           CIS 121-B1 -------   00:00a-00:00a   Online              
+
+              In semester Fall 2010 there are 2 total sections.
+
+Instructor Vicente, R has 3 total sections.

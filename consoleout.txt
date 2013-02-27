@@ -1,0 +1,607 @@
+QCC Report Generator
+
+*******************************************************************************
+
+How should the report outputs be presented?
+        a| file
+        b| screen
+        c| both
+input: a
+
+Output to file confirmed...
+
+*******************************************************************************
+
+Opening input file...
+Input file exists.
+
+Opening output file...
+Output file defaults to: CH9_Output.txt.
+
+Would you like to enter a different name for this specific report?
+        y|yes
+        n|no
+input: y
+
+
+Enter name for output file: AllSemesters.txt
+
+
+Success.
+Preparing report...
+
+
+*******************************************************************************
+
+Semester Report
+        a|select individual semester
+        b|show all semesters
+        c|skip
+input: b
+
+
+*******************************************************************************
+
+***Semester Report
+Generating semester report for all semesters...
+
+Printing report...
+
+*******************************************************************************
+
+
+
+*******************************************************************************
+
+
+Closing files...
+Output to file success!
+Look for AllSemesters.txt in your program directory.
+
+
+*******************************************************************************
+
+Preparing to generate instructor report...
+
+*******************************************************************************
+
+Opening input file...
+Input file exists.
+
+Opening output file...
+Output file defaults to: CH9_Output.txt.
+
+Would you like to enter a different name for this specific report?
+        y|yes
+        n|no
+input: y
+
+
+Enter name for output file: AllInstructors.txt
+
+
+Success.
+Preparing report...
+
+
+*******************************************************************************
+
+Instructor Report
+        a|select individual instructor
+        b|show all instructors
+        c|skip
+input: b
+
+
+*******************************************************************************
+
+***Instructor Report
+Generating instructor report for all instructors...
+
+Printing report...
+
+*******************************************************************************
+
+
+
+*******************************************************************************
+
+
+Closing files...
+Output to file success!
+Look for AllInstructors.txt in your program directory.
+
+
+*******************************************************************************
+
+Would you like to run again?
+        y|yes
+        n|no
+input: y
+
+
+
+
+*******************************************************************************
+
+QCC Report Generator
+
+*******************************************************************************
+
+How should the report outputs be presented?
+        a| file
+        b| screen
+        c| both
+input: b
+
+Output to screen confirmed...
+
+*******************************************************************************
+
+Opening input file...
+Input file exists.
+
+No file output. Reports will print to screen...
+Preparing report...
+
+
+*******************************************************************************
+
+Semester Report
+        a|select individual semester
+        b|show all semesters
+        c|skip
+input: a
+
+
+*******************************************************************************
+
+***Semester Report
+Generating semester report for individual semester...
+
+SEMESTERS:
+0| 200930
+1| 200950
+2| 201030
+3| 201050
+4| 201130
+5| 201150
+6| 201230
+7| 201110
+8| 201210
+9| 201010
+10| 201120
+11Enter index of semester for which you wish to print: 3
+
+
+Printing report...                            Quinsigamond Community College [20
+13]               PAGE: ZZZ1
+
+                CIS225-70 Instructor Course Schedule Listing [Bryan Leasot]
+
+
+Instructor    Semester      Course    DOW            Time       Room/Building
+
+
+
+
+Bigonah, R    Spring 2011  CIS 134-70 ---W---   07:00p-09:50p  377 Administratio
+n Building
+
+
+              In semester Spring 2011 there is 1 total section.
+
+
+Instructor Bigonah, R has 2 total sections.
+
+
+
+Chickna, M    Spring 2011  CIS 121-70 --T----   07:00p-09:50p  377 Administratio
+n Building
+
+
+              In semester Spring 2011 there is 1 total section.
+
+
+Instructor Chickna, M has 2 total sections.
+
+
+
+Desilet, R    Spring 2011  CIS 228-01 ---W-F-   02:00p-03:15p  366 Administratio
+n Building
+
+                           CIS 228-01 -M-W-F-   01:00p-01:50p  378 Administratio
+n Building
+
+                           CIS 228-01 -M-W-F-   12:00p-12:50p  366 Administratio
+n Building
+
+                           CIS 228-B1 -------   00:00a-00:00a   Online
+
+
+                           CIS 228-T1 -------   00:00a-00:00a   Online
+
+
+                           CIS 228-40 --T----   04:00p-06:50p  375 Administratio
+n Building
+
+                           CIS 228-01 --T-R--   09:30a-10:45a  375 Administratio
+n Building
+
+                           CIS 228-B1 -------   00:00a-00:00a   Online
+
+
+
+              In semester Spring 2011 there are 8 total sections.
+
+
+Instructor Desilet, R has 9 total sections.
+
+
+
+Dowen, D      Spring 2011  CIS 223-B1 -------   00:00a-00:00a   Online
+
+
+
+              In semester Spring 2011 there is 1 total section.
+
+
+Instructor Dowen, D has 2 total sections.
+
+
+
+Dwyer, K      Spring 2011  CIS 105-B1 -------   00:00a-00:00a   Online
+
+
+                           CIS 105-B2 -------   00:00a-00:00a   Online
+
+
+
+              In semester Spring 2011 there are 2 total sections.
+
+
+Instructor Dwyer, K has 3 total sections.
+
+
+
+Ekeh, N       Spring 2011  CIS 112-02 -M-W-F-   02:00p-02:50p  377 Administratio
+n Building
+
+
+
+Instructor Ekeh, N has 1 total section.
+
+
+
+Instructor Fotiadi, D has 1 total section.
+
+
+
+Izuchi, N     Spring 2011  CIS 299-P1 -------   00:00a-00:00a   Online
+
+
+                           CIS 299-01 -M-W-F-   10:00a-10:50a  123 Surprenant Ha
+ll
+
+                           CIS 299-01 --T-R--   12:30p-01:45p  377 Administratio
+n Building
+
+                           CIS 299-T1 -------   00:00a-00:00a   Online
+
+
+
+              In semester Spring 2011 there are 4 total sections.
+
+
+Instructor Izuchi, N has 5 total sections.
+
+
+
+Perry, J      Spring 2011  CIS 112-B2 -------   00:00a-00:00a   Online
+
+
+
+              In semester Spring 2011 there is 1 total section.
+
+
+Instructor Perry, J has 2 total sections.
+
+
+
+Pilch, F      Spring 2011  CIS 112-B1 -------   00:00a-00:00a   Online
+
+
+
+              In semester Spring 2011 there is 1 total section.
+
+
+Instructor Pilch, F has 2 total sections.
+
+
+
+Rudge, D      Spring 2011  CIS 112-70 -M-----   07:00p-09:50p  378 Administratio
+n Building
+
+
+              In semester Spring 2011 there is 1 total section.
+
+
+Instructor Rudge, D has 2 total sections.
+
+
+
+Trivedi, C    Spring 2011  CIS 105-02 --T-R--   11:00a-12:15p  123 Surprenant Ha
+ll
+
+                           CIS 105-01 -M-W-F-   01:00p-01:50p  375 Administratio
+n Building
+
+                           CIS 105-01 --T-R--   12:30p-01:45p  375 Administratio
+n Building
+
+                           CIS 105-B1 -------   00:00a-00:00a   Online
+
+
+                           CIS 105-01 --T-R--   08:00a-09:15a  366 Administratio
+n Building
+
+                           CIS 105-P2 -------   00:00a-00:00a   Online
+
+
+
+              In semester Spring 2011 there are 6 total sections.
+
+
+Instructor Trivedi, C has 7 total sections.
+
+
+
+Venedik, G    Spring 2011  CIS 225-01 ---W-F-   02:00p-03:15p  123 Surprenant Ha
+ll
+
+
+
+Instructor Venedik, G has 1 total section.
+
+
+              In semester Fall 2010 there is 1 total section.
+
+
+              Spring 2011  CIS 121-B1 -------   00:00a-00:00a   Online
+
+
+                           CIS 121-B1 -------   00:00a-00:00a   Online
+
+
+
+              In semester Spring 2011 there are 2 total sections.
+
+
+*******************************************************************************
+
+
+
+Closing files...
+Output to screen success!
+
+
+*******************************************************************************
+
+Preparing to generate instructor report...
+
+*******************************************************************************
+
+Opening input file...
+Input file exists.
+
+No file output. Reports will print to screen...
+Preparing report...
+
+
+*******************************************************************************
+
+Instructor Report
+        a|select individual instructor
+        b|show all instructors
+        c|skip
+input: 4
+
+
+Printing report...                            Quinsigamond Community College [20
+13]               PAGE: ZZZ1
+
+                CIS225-70 Instructor Course Schedule Listing [Bryan Leasot]
+
+
+Instructor    Semester      Course    DOW            Time       Room/Building
+
+
+
+
+Desilet, R    Fall 2009    CIS 141-01 -M-W-F-   09:00a-09:50a  375 Administratio
+n Building
+
+                           CIS 141-T1 -------   00:00a-00:00a   Online
+
+
+                           CIS 141-B1 -------   00:00a-00:00a   Online
+
+
+                           CIS 141-40 ---W---   04:00p-06:50p  230 Administratio
+n Building
+
+
+              In semester Fall 2009 there are 4 total sections.
+
+
+              Spring 2010  CIS 244-01 -M-W-F-   01:00p-01:50p  378 Administratio
+n Building
+
+                           CIS 244-B1 -------   00:00a-00:00a   Online
+
+
+                           CIS 244-01 -M-W-F-   12:00p-12:50p  366 Administratio
+n Building
+
+                           CIS 244-01 --T-R--   09:30a-10:45a  375 Administratio
+n Building
+
+                           CIS 244-01 ---W-F-   02:00p-03:15p  366 Administratio
+n Building
+
+
+              In semester Spring 2010 there are 5 total sections.
+
+
+              Fall 2010    CIS 229-01 ---W-F-   02:00p-03:15p  377 Administratio
+n Building
+
+                           CIS 229-B1 -------   00:00a-00:00a   Online
+
+
+                           CIS 229-01 --T-R--   09:30a-10:45a  123 Surprenant Ha
+ll
+
+
+              In semester Fall 2010 there are 3 total sections.
+
+
+              Spring 2011  CIS 228-01 ---W-F-   02:00p-03:15p  366 Administratio
+n Building
+
+                           CIS 228-01 -M-W-F-   01:00p-01:50p  378 Administratio
+n Building
+
+                           CIS 228-01 -M-W-F-   12:00p-12:50p  366 Administratio
+n Building
+
+                           CIS 228-B1 -------   00:00a-00:00a   Online
+
+
+                           CIS 228-T1 -------   00:00a-00:00a   Online
+
+
+                           CIS 228-40 --T----   04:00p-06:50p  375 Administratio
+n Building
+
+                           CIS 228-01 --T-R--   09:30a-10:45a  375 Administratio
+n Building
+
+                           CIS 228-B1 -------   00:00a-00:00a   Online
+
+
+
+              In semester Spring 2011 there are 8 total sections.
+
+
+              Summer I 2011CIS 247-T1 -------   00:00a-00:00a   Online
+
+
+
+              In semester Summer I 2011 there is 1 total section.
+
+
+              Fall 2011    CIS 237-T2 -------   00:00a-00:00a   Online
+
+
+                           CIS 237-B1 -------   00:00a-00:00a   Online
+
+
+                           CIS 237-01 --T-R--   09:30a-10:45a  123 Surprenant Ha
+ll
+
+                           CIS 237-40 ---W---   04:00p-06:50p  377 Administratio
+n Building
+
+
+              In semester Fall 2011 there are 4 total sections.
+
+
+              Spring 2012  CIS 241-B1 -------   00:00a-00:00a   Online
+
+
+                           CIS 241-01 -M-W-F-   12:00p-12:50p  366 Administratio
+n Building
+
+                           CIS 241-T1 -------   00:00a-00:00a   Online
+
+
+                           CIS 241-40 --T----   04:00p-06:50p  375 Administratio
+n Building
+
+                           CIS 241-01 -M-W-F-   11:00a-11:50a  366 Administratio
+n Building
+
+                           CIS 241-01 ---W-F-   02:00p-03:15p  123 Surprenant Ha
+ll
+
+                           CIS 241-T1 -------   00:00a-00:00a   Online
+
+
+                           CIS 241-T1 -------   00:00a-00:00a   Online
+
+
+
+              In semester Spring 2012 there are 8 total sections.
+
+
+              Summer I 2012CIS 141-B1 -------   00:00a-00:00a   Online
+
+
+
+              In semester Summer I 2012 there is 1 total section.
+
+
+              Fall 2012    CIS 105-02 -M-W-F-   12:00p-12:50p  207 Surprenant Ha
+ll
+
+                           CIS 105-01 --T-R--   12:30p-01:45p  377 Administratio
+n Building
+
+                           CIS 105-01 -M-W-F-   08:00a-08:50a  375 Administratio
+n Building
+
+                           CIS 105-70 -----F-   06:00p-08:50p  207 Surprenant Ha
+ll
+
+                           CIS 105-01 -----F-   01:00p-03:50p  366 Administratio
+n Building
+
+                           CIS 105-01 ---W---   01:00p-02:15p  366 Administratio
+n Building
+
+                           CIS 105-01 --T-R--   09:30a-10:45a  123 Surprenant Ha
+ll
+
+                           CIS 105-B1 -------   00:00a-00:00a   Online
+
+
+
+              In semester Fall 2012 there are 8 total sections.
+
+
+Instructor Desilet, R has 42 total sections.
+
+
+
+*******************************************************************************
+
+
+
+Closing files...
+Output to screen success!
+
+
+*******************************************************************************
+
+Would you like to run again?
+        y|yes
+        n|no
+input: n
+
+
+*******************************************************************************
+
+
+Nothing left to do. Terminating...
+Press any key to continue . . .
